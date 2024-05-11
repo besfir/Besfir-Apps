@@ -1,0 +1,1 @@
+const t={index:{description:{t:0,b:{t:2,i:[{t:3}],s:"我分享不需要注册且易于使用的实用程序和应用程序。如果您有任何疑问或要求,请给我们发电子邮件。"}},contact:{t:0,b:{t:2,i:[{t:3}],s:"联系人"}},qrcode:{title:{t:0,b:{t:2,i:[{t:3}],s:"二维码生成器"}},description:{t:0,b:{t:2,i:[{t:3}],s:"使用您的网站网址、联系人、WiFi、电子邮件和纯文本创建二维码"}}}}};export{t as default};

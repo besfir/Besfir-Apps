@@ -1,0 +1,1 @@
+const t={index:{description:{t:0,b:{t:2,i:[{t:3}],s:"회원가입이 필요 없고, 사용법이 간단한 유틸리티나 앱들을 공유합니다. 궁금한 점이나 요청사항은 메일로 문의해주세요."}},contact:{t:0,b:{t:2,i:[{t:3}],s:"문의하기"}},qrcode:{title:{t:0,b:{t:2,i:[{t:3}],s:"QR 코드 생성기"}},description:{t:0,b:{t:2,i:[{t:3}],s:"웹사이트 URL, 연락처, 와이파이, 이메일, 일반 텍스트를 QR 코드로 생성할 수 있습니다."}}}}};export{t as default};
