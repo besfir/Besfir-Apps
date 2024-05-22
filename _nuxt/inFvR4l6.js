@@ -1,0 +1,1 @@
+function d(e){return e&&e.__esModule&&Object.prototype.hasOwnProperty.call(e,"default")?e.default:e}const n=(e,t)=>{const o=document.createElement("a");o.download=t,o.href=e,document.body.appendChild(o),o.click(),document.body.removeChild(o)};export{d as g,n as u};
