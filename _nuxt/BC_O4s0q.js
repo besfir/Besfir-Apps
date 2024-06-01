@@ -1,0 +1,1 @@
+const t={index:{description:{t:0,b:{t:2,i:[{t:3}],s:"我们创建并分享各种非常小且无关紧要的应用程序。如果您有任何问题或请求，请通过电子邮件联系我们。"}},contact:{t:0,b:{t:2,i:[{t:3}],s:"联系我们"}},qrcode:{title:{t:0,b:{t:2,i:[{t:3}],s:"二维码生成器"}},description:{t:0,b:{t:2,i:[{t:3}],s:"您可以生成网站URL、联系人、WiFi、电子邮件和常规文本的二维码。"}}}},common:{copied:{t:0,b:{t:2,i:[{t:3}],s:"已复制。"}},download:{t:0,b:{t:2,i:[{t:3}],s:"下载"}}}};export{t as default};
