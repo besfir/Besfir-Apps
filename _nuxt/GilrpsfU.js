@@ -1,0 +1,1 @@
+const t={"tailwind-palette":{meta:{title:{t:0,b:{t:2,i:[{t:3}],s:"Tailwind CSS Palette Generator"}},description:{t:0,b:{t:2,i:[{t:3}],s:"Provides Tailwind CSS color shades based on a specific HEX, HSL, or RGB color."}}},smooth:{t:0,b:{t:2,i:[{t:3}],s:"Smooth"}},random:{t:0,b:{t:2,i:[{t:3}],s:"Random"}}}};export{t as default};

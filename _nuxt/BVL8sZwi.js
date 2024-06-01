@@ -1,0 +1,1 @@
+const t={"tailwind-palette":{meta:{title:{t:0,b:{t:2,i:[{t:3}],s:"Generator Palet Tailwind CSS"}},description:{t:0,b:{t:2,i:[{t:3}],s:"Menyediakan gradasi warna Tailwind CSS berdasarkan warna HEX, HSL, atau RGB tertentu."}}},smooth:{t:0,b:{t:2,i:[{t:3}],s:"Halus"}},random:{t:0,b:{t:2,i:[{t:3}],s:"Acak"}}}};export{t as default};

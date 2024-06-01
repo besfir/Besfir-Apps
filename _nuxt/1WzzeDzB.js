@@ -1,0 +1,1 @@
+const t={"tailwind-palette":{meta:{title:{t:0,b:{t:2,i:[{t:3}],s:"Tailwind CSS 调色板生成器"}},description:{t:0,b:{t:2,i:[{t:3}],s:"基于特定的HEX、HSL或RGB颜色提供Tailwind CSS颜色阴影。"}}},smooth:{t:0,b:{t:2,i:[{t:3}],s:"平滑"}},random:{t:0,b:{t:2,i:[{t:3}],s:"随机"}}}};export{t as default};
