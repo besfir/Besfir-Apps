@@ -2,5 +2,5 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://besfir.org/sitemap_index.xml
+Sitemap: https://pettyapp.xyz/sitemap_index.xml
 # END nuxt-simple-robots
