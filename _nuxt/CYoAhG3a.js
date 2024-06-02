@@ -1,1 +1,0 @@
-import{g as o,o as t,c as a,a as e,t as r,z as c}from"./D9Xx1nir.js";const n={class:"sm:grid grid-cols-4 items-center"},l={class:"text-sm font-medium mb-1.5 sm:mb-0"},i={class:"col-start-2 col-span-3 space-y-4"},_=o({__name:"FormGroup",props:{label:{}},setup(m){return(s,d)=>(t(),a("div",n,[e("div",l,r(s.label),1),e("div",i,[c(s.$slots,"default")])]))}});export{_};
