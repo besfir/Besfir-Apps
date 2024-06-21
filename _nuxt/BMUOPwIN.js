@@ -1,0 +1,1 @@
+import{b1 as s,b2 as u}from"./BTFwFKrx.js";function b(t={}){const{copy:n,isSupported:p}=s(),i=u();function e(d,o={},r={}){p&&n(d).then(()=>{!o.title&&!o.description||i.add({...o,...t})},function(a){i.add({...r,description:r.description||a.message,...t})})}return{copy:e}}export{b as u};
