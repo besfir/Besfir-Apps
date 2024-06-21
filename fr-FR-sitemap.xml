@@ -16,21 +16,6 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/" />
     </url>
     <url>
-        <loc>https://pettyapp.xyz/fr/pdf-password-remover/</loc>
-        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/ko/pdf-password-remover/" />
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/pdf-password-remover/" />
-        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/de/pdf-password-remover/" />
-        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/es/pdf-password-remover/" />
-        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/fr/pdf-password-remover/" />
-        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/id/pdf-password-remover/" />
-        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/it/pdf-password-remover/" />
-        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/ja/pdf-password-remover/" />
-        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/pt/pdf-password-remover/" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/ru/pdf-password-remover/" />
-        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/zh/pdf-password-remover/" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/pdf-password-remover/" />
-    </url>
-    <url>
         <loc>https://pettyapp.xyz/fr/tailwind-palette/</loc>
         <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/ko/tailwind-palette/" />
         <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/tailwind-palette/" />
@@ -44,6 +29,21 @@
         <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/ru/tailwind-palette/" />
         <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/zh/tailwind-palette/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/tailwind-palette/" />
+    </url>
+    <url>
+        <loc>https://pettyapp.xyz/fr/wheel-of-fortune/</loc>
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/ko/wheel-of-fortune/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/wheel-of-fortune/" />
+        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/de/wheel-of-fortune/" />
+        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/es/wheel-of-fortune/" />
+        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/fr/wheel-of-fortune/" />
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/id/wheel-of-fortune/" />
+        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/it/wheel-of-fortune/" />
+        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/ja/wheel-of-fortune/" />
+        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/pt/wheel-of-fortune/" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/ru/wheel-of-fortune/" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/zh/wheel-of-fortune/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/wheel-of-fortune/" />
     </url>
     <url>
         <loc>https://pettyapp.xyz/fr/format-converter/json-to-yaml/</loc>
@@ -74,6 +74,21 @@
         <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/ru/format-converter/yaml-to-json/" />
         <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/zh/format-converter/yaml-to-json/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/format-converter/yaml-to-json/" />
+    </url>
+    <url>
+        <loc>https://pettyapp.xyz/fr/pdf/password-remover/</loc>
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/ko/pdf/password-remover/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/pdf/password-remover/" />
+        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/de/pdf/password-remover/" />
+        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/es/pdf/password-remover/" />
+        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/fr/pdf/password-remover/" />
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/id/pdf/password-remover/" />
+        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/it/pdf/password-remover/" />
+        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/ja/pdf/password-remover/" />
+        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/pt/pdf/password-remover/" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/ru/pdf/password-remover/" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/zh/pdf/password-remover/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/pdf/password-remover/" />
     </url>
     <url>
         <loc>https://pettyapp.xyz/fr/qrcode-generator/contact/</loc>
@@ -151,4 +166,4 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/qrcode-generator/wifi/" />
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v5.1.5 at 2024-06-03T01:28:47.221Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v5.1.5 at 2024-06-21T15:07:21.801Z -->
