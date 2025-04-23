@@ -1,169 +1,199 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/__sitemap__/style.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/Besfir-Apps/__sitemap__/style.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://pettyapp.xyz/it/</loc>
-        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/ko/" />
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/" />
-        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/de/" />
-        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/es/" />
-        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/fr/" />
-        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/id/" />
-        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/it/" />
-        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/ja/" />
-        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/pt/" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/ru/" />
-        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/zh/" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/" />
+        <loc>https://pettyapp.xyz/Besfir-Apps/it/</loc>
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/Besfir-Apps/ko/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/Besfir-Apps/" />
+        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/Besfir-Apps/de/" />
+        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/Besfir-Apps/es/" />
+        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/Besfir-Apps/fr/" />
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/Besfir-Apps/id/" />
+        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/Besfir-Apps/it/" />
+        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/Besfir-Apps/ja/" />
+        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/Besfir-Apps/pt/" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/Besfir-Apps/ru/" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/Besfir-Apps/zh/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/Besfir-Apps/" />
     </url>
     <url>
-        <loc>https://pettyapp.xyz/it/tailwind-palette/</loc>
-        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/ko/tailwind-palette/" />
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/tailwind-palette/" />
-        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/de/tailwind-palette/" />
-        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/es/tailwind-palette/" />
-        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/fr/tailwind-palette/" />
-        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/id/tailwind-palette/" />
-        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/it/tailwind-palette/" />
-        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/ja/tailwind-palette/" />
-        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/pt/tailwind-palette/" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/ru/tailwind-palette/" />
-        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/zh/tailwind-palette/" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/tailwind-palette/" />
+        <loc>https://pettyapp.xyz/Besfir-Apps/it/color-forge/</loc>
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/Besfir-Apps/ko/color-forge/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/Besfir-Apps/color-forge/" />
+        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/Besfir-Apps/de/color-forge/" />
+        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/Besfir-Apps/es/color-forge/" />
+        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/Besfir-Apps/fr/color-forge/" />
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/Besfir-Apps/id/color-forge/" />
+        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/Besfir-Apps/it/color-forge/" />
+        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/Besfir-Apps/ja/color-forge/" />
+        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/Besfir-Apps/pt/color-forge/" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/Besfir-Apps/ru/color-forge/" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/Besfir-Apps/zh/color-forge/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/Besfir-Apps/color-forge/" />
     </url>
     <url>
-        <loc>https://pettyapp.xyz/it/wheel-of-fortune/</loc>
-        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/ko/wheel-of-fortune/" />
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/wheel-of-fortune/" />
-        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/de/wheel-of-fortune/" />
-        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/es/wheel-of-fortune/" />
-        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/fr/wheel-of-fortune/" />
-        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/id/wheel-of-fortune/" />
-        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/it/wheel-of-fortune/" />
-        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/ja/wheel-of-fortune/" />
-        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/pt/wheel-of-fortune/" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/ru/wheel-of-fortune/" />
-        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/zh/wheel-of-fortune/" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/wheel-of-fortune/" />
+        <loc>https://pettyapp.xyz/Besfir-Apps/it/tailwind-palette/</loc>
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/Besfir-Apps/ko/tailwind-palette/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/Besfir-Apps/tailwind-palette/" />
+        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/Besfir-Apps/de/tailwind-palette/" />
+        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/Besfir-Apps/es/tailwind-palette/" />
+        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/Besfir-Apps/fr/tailwind-palette/" />
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/Besfir-Apps/id/tailwind-palette/" />
+        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/Besfir-Apps/it/tailwind-palette/" />
+        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/Besfir-Apps/ja/tailwind-palette/" />
+        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/Besfir-Apps/pt/tailwind-palette/" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/Besfir-Apps/ru/tailwind-palette/" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/Besfir-Apps/zh/tailwind-palette/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/Besfir-Apps/tailwind-palette/" />
     </url>
     <url>
-        <loc>https://pettyapp.xyz/it/format-converter/json-to-yaml/</loc>
-        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/ko/format-converter/json-to-yaml/" />
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/format-converter/json-to-yaml/" />
-        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/de/format-converter/json-to-yaml/" />
-        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/es/format-converter/json-to-yaml/" />
-        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/fr/format-converter/json-to-yaml/" />
-        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/id/format-converter/json-to-yaml/" />
-        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/it/format-converter/json-to-yaml/" />
-        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/ja/format-converter/json-to-yaml/" />
-        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/pt/format-converter/json-to-yaml/" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/ru/format-converter/json-to-yaml/" />
-        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/zh/format-converter/json-to-yaml/" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/format-converter/json-to-yaml/" />
+        <loc>https://pettyapp.xyz/Besfir-Apps/it/team-generator/</loc>
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/Besfir-Apps/ko/team-generator/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/Besfir-Apps/team-generator/" />
+        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/Besfir-Apps/de/team-generator/" />
+        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/Besfir-Apps/es/team-generator/" />
+        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/Besfir-Apps/fr/team-generator/" />
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/Besfir-Apps/id/team-generator/" />
+        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/Besfir-Apps/it/team-generator/" />
+        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/Besfir-Apps/ja/team-generator/" />
+        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/Besfir-Apps/pt/team-generator/" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/Besfir-Apps/ru/team-generator/" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/Besfir-Apps/zh/team-generator/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/Besfir-Apps/team-generator/" />
     </url>
     <url>
-        <loc>https://pettyapp.xyz/it/format-converter/yaml-to-json/</loc>
-        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/ko/format-converter/yaml-to-json/" />
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/format-converter/yaml-to-json/" />
-        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/de/format-converter/yaml-to-json/" />
-        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/es/format-converter/yaml-to-json/" />
-        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/fr/format-converter/yaml-to-json/" />
-        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/id/format-converter/yaml-to-json/" />
-        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/it/format-converter/yaml-to-json/" />
-        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/ja/format-converter/yaml-to-json/" />
-        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/pt/format-converter/yaml-to-json/" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/ru/format-converter/yaml-to-json/" />
-        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/zh/format-converter/yaml-to-json/" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/format-converter/yaml-to-json/" />
+        <loc>https://pettyapp.xyz/Besfir-Apps/it/wheel-of-fortune/</loc>
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/Besfir-Apps/ko/wheel-of-fortune/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/Besfir-Apps/wheel-of-fortune/" />
+        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/Besfir-Apps/de/wheel-of-fortune/" />
+        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/Besfir-Apps/es/wheel-of-fortune/" />
+        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/Besfir-Apps/fr/wheel-of-fortune/" />
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/Besfir-Apps/id/wheel-of-fortune/" />
+        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/Besfir-Apps/it/wheel-of-fortune/" />
+        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/Besfir-Apps/ja/wheel-of-fortune/" />
+        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/Besfir-Apps/pt/wheel-of-fortune/" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/Besfir-Apps/ru/wheel-of-fortune/" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/Besfir-Apps/zh/wheel-of-fortune/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/Besfir-Apps/wheel-of-fortune/" />
     </url>
     <url>
-        <loc>https://pettyapp.xyz/it/pdf/password-remover/</loc>
-        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/ko/pdf/password-remover/" />
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/pdf/password-remover/" />
-        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/de/pdf/password-remover/" />
-        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/es/pdf/password-remover/" />
-        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/fr/pdf/password-remover/" />
-        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/id/pdf/password-remover/" />
-        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/it/pdf/password-remover/" />
-        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/ja/pdf/password-remover/" />
-        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/pt/pdf/password-remover/" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/ru/pdf/password-remover/" />
-        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/zh/pdf/password-remover/" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/pdf/password-remover/" />
+        <loc>https://pettyapp.xyz/Besfir-Apps/it/format-converter/json-to-yaml/</loc>
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/Besfir-Apps/ko/format-converter/json-to-yaml/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/Besfir-Apps/format-converter/json-to-yaml/" />
+        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/Besfir-Apps/de/format-converter/json-to-yaml/" />
+        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/Besfir-Apps/es/format-converter/json-to-yaml/" />
+        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/Besfir-Apps/fr/format-converter/json-to-yaml/" />
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/Besfir-Apps/id/format-converter/json-to-yaml/" />
+        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/Besfir-Apps/it/format-converter/json-to-yaml/" />
+        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/Besfir-Apps/ja/format-converter/json-to-yaml/" />
+        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/Besfir-Apps/pt/format-converter/json-to-yaml/" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/Besfir-Apps/ru/format-converter/json-to-yaml/" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/Besfir-Apps/zh/format-converter/json-to-yaml/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/Besfir-Apps/format-converter/json-to-yaml/" />
     </url>
     <url>
-        <loc>https://pettyapp.xyz/it/qrcode-generator/contact/</loc>
-        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/ko/qrcode-generator/contact/" />
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/qrcode-generator/contact/" />
-        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/de/qrcode-generator/contact/" />
-        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/es/qrcode-generator/contact/" />
-        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/fr/qrcode-generator/contact/" />
-        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/id/qrcode-generator/contact/" />
-        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/it/qrcode-generator/contact/" />
-        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/ja/qrcode-generator/contact/" />
-        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/pt/qrcode-generator/contact/" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/ru/qrcode-generator/contact/" />
-        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/zh/qrcode-generator/contact/" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/qrcode-generator/contact/" />
+        <loc>https://pettyapp.xyz/Besfir-Apps/it/format-converter/yaml-to-json/</loc>
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/Besfir-Apps/ko/format-converter/yaml-to-json/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/Besfir-Apps/format-converter/yaml-to-json/" />
+        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/Besfir-Apps/de/format-converter/yaml-to-json/" />
+        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/Besfir-Apps/es/format-converter/yaml-to-json/" />
+        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/Besfir-Apps/fr/format-converter/yaml-to-json/" />
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/Besfir-Apps/id/format-converter/yaml-to-json/" />
+        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/Besfir-Apps/it/format-converter/yaml-to-json/" />
+        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/Besfir-Apps/ja/format-converter/yaml-to-json/" />
+        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/Besfir-Apps/pt/format-converter/yaml-to-json/" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/Besfir-Apps/ru/format-converter/yaml-to-json/" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/Besfir-Apps/zh/format-converter/yaml-to-json/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/Besfir-Apps/format-converter/yaml-to-json/" />
     </url>
     <url>
-        <loc>https://pettyapp.xyz/it/qrcode-generator/email/</loc>
-        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/ko/qrcode-generator/email/" />
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/qrcode-generator/email/" />
-        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/de/qrcode-generator/email/" />
-        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/es/qrcode-generator/email/" />
-        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/fr/qrcode-generator/email/" />
-        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/id/qrcode-generator/email/" />
-        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/it/qrcode-generator/email/" />
-        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/ja/qrcode-generator/email/" />
-        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/pt/qrcode-generator/email/" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/ru/qrcode-generator/email/" />
-        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/zh/qrcode-generator/email/" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/qrcode-generator/email/" />
+        <loc>https://pettyapp.xyz/Besfir-Apps/it/pdf/password-remover/</loc>
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/Besfir-Apps/ko/pdf/password-remover/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/Besfir-Apps/pdf/password-remover/" />
+        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/Besfir-Apps/de/pdf/password-remover/" />
+        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/Besfir-Apps/es/pdf/password-remover/" />
+        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/Besfir-Apps/fr/pdf/password-remover/" />
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/Besfir-Apps/id/pdf/password-remover/" />
+        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/Besfir-Apps/it/pdf/password-remover/" />
+        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/Besfir-Apps/ja/pdf/password-remover/" />
+        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/Besfir-Apps/pt/pdf/password-remover/" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/Besfir-Apps/ru/pdf/password-remover/" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/Besfir-Apps/zh/pdf/password-remover/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/Besfir-Apps/pdf/password-remover/" />
     </url>
     <url>
-        <loc>https://pettyapp.xyz/it/qrcode-generator/text/</loc>
-        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/ko/qrcode-generator/text/" />
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/qrcode-generator/text/" />
-        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/de/qrcode-generator/text/" />
-        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/es/qrcode-generator/text/" />
-        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/fr/qrcode-generator/text/" />
-        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/id/qrcode-generator/text/" />
-        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/it/qrcode-generator/text/" />
-        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/ja/qrcode-generator/text/" />
-        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/pt/qrcode-generator/text/" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/ru/qrcode-generator/text/" />
-        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/zh/qrcode-generator/text/" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/qrcode-generator/text/" />
+        <loc>https://pettyapp.xyz/Besfir-Apps/it/qrcode-generator/contact/</loc>
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/Besfir-Apps/ko/qrcode-generator/contact/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/Besfir-Apps/qrcode-generator/contact/" />
+        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/Besfir-Apps/de/qrcode-generator/contact/" />
+        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/Besfir-Apps/es/qrcode-generator/contact/" />
+        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/Besfir-Apps/fr/qrcode-generator/contact/" />
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/Besfir-Apps/id/qrcode-generator/contact/" />
+        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/Besfir-Apps/it/qrcode-generator/contact/" />
+        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/Besfir-Apps/ja/qrcode-generator/contact/" />
+        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/Besfir-Apps/pt/qrcode-generator/contact/" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/Besfir-Apps/ru/qrcode-generator/contact/" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/Besfir-Apps/zh/qrcode-generator/contact/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/Besfir-Apps/qrcode-generator/contact/" />
     </url>
     <url>
-        <loc>https://pettyapp.xyz/it/qrcode-generator/url/</loc>
-        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/ko/qrcode-generator/url/" />
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/qrcode-generator/url/" />
-        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/de/qrcode-generator/url/" />
-        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/es/qrcode-generator/url/" />
-        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/fr/qrcode-generator/url/" />
-        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/id/qrcode-generator/url/" />
-        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/it/qrcode-generator/url/" />
-        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/ja/qrcode-generator/url/" />
-        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/pt/qrcode-generator/url/" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/ru/qrcode-generator/url/" />
-        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/zh/qrcode-generator/url/" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/qrcode-generator/url/" />
+        <loc>https://pettyapp.xyz/Besfir-Apps/it/qrcode-generator/email/</loc>
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/Besfir-Apps/ko/qrcode-generator/email/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/Besfir-Apps/qrcode-generator/email/" />
+        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/Besfir-Apps/de/qrcode-generator/email/" />
+        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/Besfir-Apps/es/qrcode-generator/email/" />
+        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/Besfir-Apps/fr/qrcode-generator/email/" />
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/Besfir-Apps/id/qrcode-generator/email/" />
+        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/Besfir-Apps/it/qrcode-generator/email/" />
+        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/Besfir-Apps/ja/qrcode-generator/email/" />
+        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/Besfir-Apps/pt/qrcode-generator/email/" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/Besfir-Apps/ru/qrcode-generator/email/" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/Besfir-Apps/zh/qrcode-generator/email/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/Besfir-Apps/qrcode-generator/email/" />
     </url>
     <url>
-        <loc>https://pettyapp.xyz/it/qrcode-generator/wifi/</loc>
-        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/ko/qrcode-generator/wifi/" />
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/qrcode-generator/wifi/" />
-        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/de/qrcode-generator/wifi/" />
-        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/es/qrcode-generator/wifi/" />
-        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/fr/qrcode-generator/wifi/" />
-        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/id/qrcode-generator/wifi/" />
-        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/it/qrcode-generator/wifi/" />
-        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/ja/qrcode-generator/wifi/" />
-        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/pt/qrcode-generator/wifi/" />
-        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/ru/qrcode-generator/wifi/" />
-        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/zh/qrcode-generator/wifi/" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/qrcode-generator/wifi/" />
+        <loc>https://pettyapp.xyz/Besfir-Apps/it/qrcode-generator/text/</loc>
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/Besfir-Apps/ko/qrcode-generator/text/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/Besfir-Apps/qrcode-generator/text/" />
+        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/Besfir-Apps/de/qrcode-generator/text/" />
+        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/Besfir-Apps/es/qrcode-generator/text/" />
+        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/Besfir-Apps/fr/qrcode-generator/text/" />
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/Besfir-Apps/id/qrcode-generator/text/" />
+        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/Besfir-Apps/it/qrcode-generator/text/" />
+        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/Besfir-Apps/ja/qrcode-generator/text/" />
+        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/Besfir-Apps/pt/qrcode-generator/text/" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/Besfir-Apps/ru/qrcode-generator/text/" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/Besfir-Apps/zh/qrcode-generator/text/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/Besfir-Apps/qrcode-generator/text/" />
+    </url>
+    <url>
+        <loc>https://pettyapp.xyz/Besfir-Apps/it/qrcode-generator/url/</loc>
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/Besfir-Apps/ko/qrcode-generator/url/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/Besfir-Apps/qrcode-generator/url/" />
+        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/Besfir-Apps/de/qrcode-generator/url/" />
+        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/Besfir-Apps/es/qrcode-generator/url/" />
+        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/Besfir-Apps/fr/qrcode-generator/url/" />
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/Besfir-Apps/id/qrcode-generator/url/" />
+        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/Besfir-Apps/it/qrcode-generator/url/" />
+        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/Besfir-Apps/ja/qrcode-generator/url/" />
+        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/Besfir-Apps/pt/qrcode-generator/url/" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/Besfir-Apps/ru/qrcode-generator/url/" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/Besfir-Apps/zh/qrcode-generator/url/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/Besfir-Apps/qrcode-generator/url/" />
+    </url>
+    <url>
+        <loc>https://pettyapp.xyz/Besfir-Apps/it/qrcode-generator/wifi/</loc>
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://pettyapp.xyz/Besfir-Apps/ko/qrcode-generator/wifi/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://pettyapp.xyz/Besfir-Apps/qrcode-generator/wifi/" />
+        <xhtml:link rel="alternate" hreflang="de-DE" href="https://pettyapp.xyz/Besfir-Apps/de/qrcode-generator/wifi/" />
+        <xhtml:link rel="alternate" hreflang="es-ES" href="https://pettyapp.xyz/Besfir-Apps/es/qrcode-generator/wifi/" />
+        <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pettyapp.xyz/Besfir-Apps/fr/qrcode-generator/wifi/" />
+        <xhtml:link rel="alternate" hreflang="id-ID" href="https://pettyapp.xyz/Besfir-Apps/id/qrcode-generator/wifi/" />
+        <xhtml:link rel="alternate" hreflang="it-IT" href="https://pettyapp.xyz/Besfir-Apps/it/qrcode-generator/wifi/" />
+        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://pettyapp.xyz/Besfir-Apps/ja/qrcode-generator/wifi/" />
+        <xhtml:link rel="alternate" hreflang="pt-PT" href="https://pettyapp.xyz/Besfir-Apps/pt/qrcode-generator/wifi/" />
+        <xhtml:link rel="alternate" hreflang="ru-RU" href="https://pettyapp.xyz/Besfir-Apps/ru/qrcode-generator/wifi/" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://pettyapp.xyz/Besfir-Apps/zh/qrcode-generator/wifi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://pettyapp.xyz/Besfir-Apps/qrcode-generator/wifi/" />
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v5.1.5 at 2024-06-21T15:17:35.627Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v5.1.5 at 2025-04-23T13:32:08.617Z -->
